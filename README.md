@@ -30,6 +30,7 @@
 </div>
 
 
+<div align=center><h1>🚀 STATUS</h1></div>
 
 ![Anurag's GitHub stats][github_stats]
 
