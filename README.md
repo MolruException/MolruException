@@ -1,3 +1,8 @@
+<div align=center><h1>☎️ Contact </h1></div>
+
+* [Another Github Account (Lede-dev)](https://github.com/Lede-dev/)
+* [Discord (Another Level)](https://discord.gg/ZZc7fBK)
+
 <div align=center><h1>🚀 ORGANIZATIONS</h1></div>
 
 * [Mingcraft](https://github.com/mingcraft)
