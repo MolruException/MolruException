@@ -2,6 +2,7 @@
 
 * [Another Github Account (Lede-dev)](https://github.com/Lede-dev/)
 * [Discord (Another Level)](https://discord.gg/ZZc7fBK)
+* [Discord (Astea)](https://discord.gg/QG5jMShKqr)
 
 <div align=center><h1>🚀 ORGANIZATIONS</h1></div>
 
